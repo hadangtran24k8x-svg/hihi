@@ -1,0 +1,11 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.swp
+*.tmp
+coverage/
+*.pyc
+.vscode/
+.DS_Store
